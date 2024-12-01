@@ -1208,6 +1208,9 @@ vendor/lib64/vendor.qti.ims.rcsconfig@2.1.so
 vendor/lib64/vendor.qti.imsrtpservice@3.0-service-Impl.so
 vendor/lib64/vendor.qti.imsrtpservice@3.0.so
 
+# Spatial Audio
+vendor/lib/soundfx/libspatialaudio.so
+
 # Sensors
 vendor/bin/capsense_reset
 vendor/bin/sensors.qti
