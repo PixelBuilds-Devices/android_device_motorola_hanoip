@@ -1,0 +1,13 @@
+[
+        {
+		"repository": "android_vendor_motorola_hanoip",
+		"target_path": "vendor/motorola/hanoip",
+		"branch": "unity",
+                "remote":"pixelbuilds-blobs-gitlab"
+	},
+	{
+		"repository": "android_kernel_motorola_sm6150",
+		"target_path": "kernel/motorola/sm6150",
+		"branch": "unity"
+	}
+]
