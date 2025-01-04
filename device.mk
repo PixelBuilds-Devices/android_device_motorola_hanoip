@@ -33,7 +33,6 @@ PRODUCT_PACKAGES += \
     FrameworksResHanoip \
     CarrierConfigResHanoip \
     NotchBarKiller \
-    SettingsResHanoip \
     SystemUIResHanoip \
     TelephonyResHanoip
 
