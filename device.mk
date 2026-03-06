@@ -35,7 +35,6 @@ PRODUCT_PACKAGES += \
     SystemUIResHanoip \
     TelephonyResHanoip
 
-PRODUCT_ENFORCE_RRO_TARGETS := *
 
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay-custom
 
