@@ -43,9 +43,9 @@ TARGET_SCREEN_WIDTH := 1080
 TARGET_BOOT_ANIMATION_RES := 1080
 
 # Build info
+BUILD_FINGERPRINT := "motorola/hanoip_retail/hanoip:11/S2RI32.32-20-9-9-2/1591b:user/release-keys"
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="hanoip_retail-user 11 S2RI32.32-20-9-9-2 1591b release-keys" \
-    BuildFingerprint=motorola/hanoip_retail/hanoip:11/S2RI32.32-20-9-9-2/1591b:user/release-keys \
-    DeviceProduct=hanoip_retail
+    TARGET_PRODUCT=hanoip_retail \
+    PRIVATE_BUILD_DESC="hanoip_retail-user 11 S2RI32.32-20-9-9-2 1591b release-keys"
 
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
